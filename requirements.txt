@@ -4,3 +4,5 @@ pyQiwiP2P
 requests
 shutup
 pytelegrambotapi
+SpeechRecognition
+pynput
